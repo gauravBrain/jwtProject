@@ -1,0 +1,115 @@
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22485,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:19:18.142Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22485,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:19:18.143Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22485,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:19:18.287Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22485,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:19:18.770Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22532,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:20:00.548Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22532,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:20:00.548Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22532,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:20:00.696Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22532,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:20:01.137Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22567,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:20:24.433Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22567,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:20:24.433Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22567,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:20:24.578Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22567,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:20:25.046Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22784,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:29:44.846Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22784,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:29:44.847Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22784,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:29:44.991Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22784,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:29:45.428Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22984,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:31:29.586Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22984,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:31:29.586Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22984,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:31:29.730Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":22984,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:31:30.166Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23017,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:31:51.132Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23017,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:31:51.133Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23017,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:31:51.257Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23017,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:31:51.689Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23091,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:33:26.531Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23091,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:33:26.532Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23091,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:33:26.669Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23091,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:33:27.111Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23136,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:33:55.107Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23136,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:33:55.108Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23136,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:33:55.240Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23136,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:33:55.674Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23202,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:35:35.236Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23202,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:35:35.236Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23202,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:35:35.415Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23202,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:35:35.870Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23390,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:40:28.234Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23390,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:40:28.234Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23390,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:40:28.365Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23390,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:40:28.804Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23497,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:43:13.915Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23497,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:43:13.916Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23497,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:43:14.053Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23526,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:43:34.700Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23526,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:43:34.701Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23526,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:43:34.828Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23526,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:43:35.266Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23593,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T07:45:07.226Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23593,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T07:45:07.226Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23593,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T07:45:07.361Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":23593,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T07:45:07.800Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24479,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T08:34:27.277Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24479,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T08:34:27.278Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24479,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T08:34:27.409Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24479,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T08:34:27.851Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24703,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T08:37:04.830Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24703,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T08:37:04.831Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24703,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T08:37:04.971Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24703,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T08:37:05.404Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24916,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T08:40:59.712Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24916,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T08:40:59.713Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24916,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T08:40:59.843Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24916,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T08:41:00.288Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24948,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T08:41:22.815Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24948,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T08:41:22.815Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24948,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T08:41:22.947Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24948,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T08:41:23.389Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24987,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T08:41:50.375Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24987,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T08:41:50.376Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24987,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T08:41:50.524Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":24987,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T08:41:50.979Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25829,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:04:06.933Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25829,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:04:06.934Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25829,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:04:07.070Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25829,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:04:07.501Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25853,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:04:32.231Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25853,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:04:32.232Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25853,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:04:32.361Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25853,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:04:32.796Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25883,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:04:54.505Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25883,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:04:54.506Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25883,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:04:54.634Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":25883,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:04:55.062Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26789,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:10:21.984Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26789,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:10:21.984Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26789,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:10:22.124Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26789,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:10:22.556Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26847,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:12:58.095Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26847,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:12:58.095Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26847,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:12:58.306Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26847,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:12:58.746Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26904,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:14:39.038Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26904,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:14:39.039Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26904,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:14:39.226Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26904,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:14:39.662Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26939,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:15:17.491Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26939,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:15:17.492Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26939,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:15:17.652Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":26939,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:15:18.096Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27323,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:33:00.429Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27323,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:33:00.430Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27323,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:33:00.552Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27323,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:33:00.985Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27377,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:34:20.173Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27377,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:34:20.174Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27377,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:34:20.295Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27377,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:34:20.726Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27861,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:50:08.601Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27861,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:50:08.602Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27861,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:50:08.722Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27861,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:50:09.157Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27949,"level":30,"msg":"configuring db in development mode","time":"2018-06-23T09:52:15.045Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27949,"level":30,"msg":"connecting to -> mongodb://localhost:27017/jwt","time":"2018-06-23T09:52:15.045Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27949,"level":30,"msg":"connected to DB jwt at mongodb://localhost:27017/jwt","time":"2018-06-23T09:52:15.171Z","v":0}
+{"name":"jwtApp","hostname":"daffolap227-Latitude-3540","pid":27949,"level":30,"msg":"Express server listening on 3200, in development mode","time":"2018-06-23T09:52:15.601Z","v":0}
